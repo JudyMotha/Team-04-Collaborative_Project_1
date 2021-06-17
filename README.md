@@ -3,6 +3,7 @@
 ## Overview: 
 The purpose of <insert site name> is to provide the user with an activity to do based on the weather. If the user is bored or looking for something to do, they should be able to enter their location into the site. Upon submitting the location, the site will check the weather to determine the weather then provide an activity to do based on the weather details. This site will utilize both https://openweathermap.org/api and www.boredapi.com APIs to achieve this response. 
 
+  Deployed URL:https://judymotha.github.io/Team-04-Collaborative_Project_1/
 ## User Stories
 As a user, I want to be provided with an activity or activities that I can do based on the weather, so that I can have something to do when I am bored.
 
