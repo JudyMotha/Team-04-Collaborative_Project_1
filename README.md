@@ -53,5 +53,6 @@ Once the page loads, type in your city and the number of individuals (up to thre
 
 ## APIs
 The following APIs are used in this site:
-www.boredapi.com https://openweathermap.org/api
+www.boredapi.com
+ https://openweathermap.org/api
 
